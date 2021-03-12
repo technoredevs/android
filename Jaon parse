@@ -1,7 +1,38 @@
 [
-{"fish_img":"1.jpg",
-"fish_name":"Indian Mackerel",
-"cat_name":"Marine Fish",
-"size_name":"Medium",
-"price":"100"}
+{"fish_img":"Edit Text Box",
+"size_name":"import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.text.Editable;
+import android.text.TextWatcher;
+import android.widget.EditText;
+import android.widget.TextView;
+
+
+public class MainActivity extends AppCompatActivity {
+    EditText edttxt;
+    TextView txtedt;
+                @Override
+                protected void onCreate(Bundle savedInstanceState) {
+                                super.onCreate(savedInstanceState);
+                                setContentView(R.layout.activity_main);
+                                edttxt=(EditText)findViewById(R.id.edtdemo);
+                                txtedt=(TextView)findViewById(R.id.txtedt);
+                                edttxt.addTextChangedListener(new TextWatcher() {
+                                    @Override
+                                    public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
+                                    }
+
+                                    @Override
+                                    public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
+                                        String str=edttxt.getText().toString();
+                                        txtedt.setText(str);
+                                    }
+
+                                    @Override
+                                    public void afterTextChanged(Editable editable) {
+                                    }
+                                });
+                            }
+}"
+}
 ]
