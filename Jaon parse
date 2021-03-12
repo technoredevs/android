@@ -1,38 +1,333 @@
 [
-{"fish_img":"Edit Text Box",
-"size_name":"import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-import android.text.Editable;
-import android.text.TextWatcher;
-import android.widget.EditText;
-import android.widget.TextView;
+{
+"title":"Samsung Galaxy S21 Ultra",
+"message":"The Samsung Galaxy S21 Ultra does everything you need it to do. Its big, bright, bold, beautiful benchmark of a screen will dazzle you while watching your favourite content. And with S Pen support (S Pen sold separately), not to mention the most versatile camera system available, it’s also a creative suite unto itself, allowing you to shoot 8K video and snap pics with its 108MP stills camera and 10x zoom.
 
+It’s difficult to find fault with the Galaxy S21 Ultra if you can get past its high price and hefty frame. With fewer shortcomings than possibly any flagship phone on the market, Samsung is once again back on top."
+},
+{
+"title":"iPhone 12 Pro Max",
+"message":"It’s eye-wateringly expensive, but there’s no denying that the iPhone 12 Pro Max is the best, most feature-packed iPhone Apple has ever made. 
 
-public class MainActivity extends AppCompatActivity {
-    EditText edttxt;
-    TextView txtedt;
-                @Override
-                protected void onCreate(Bundle savedInstanceState) {
-                                super.onCreate(savedInstanceState);
-                                setContentView(R.layout.activity_main);
-                                edttxt=(EditText)findViewById(R.id.edtdemo);
-                                txtedt=(TextView)findViewById(R.id.txtedt);
-                                edttxt.addTextChangedListener(new TextWatcher() {
-                                    @Override
-                                    public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-                                    }
+If you can handle the size of its 6.7in screen, you’ll be treated to an incredibly powerful A14 Bionic processor, 6GB RAM, one of the best smartphone cameras in the world, and all with incredible battery life to boot.
 
-                                    @Override
-                                    public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-                                        String str=edttxt.getText().toString();
-                                        txtedt.setText(str);
-                                    }
+All of this is wrapped up in Apple’s tried and tested minimal design, powered by the smooth and slick iOS 14. If you can handle its larger size (and larger price tag) then you’ll be more than content with Apple’s latest and greatest handset."
+},
+{
+"title":"iPhone 12 and 12 Mini",
+"message":"The iPhone 12 has a 6.1in display and has the same 5G support as Apple’s other new iPhones, along with very good (but not the absolute best) camera performance. The OLED screen is a joy to behold, and the new MagSafe feature is an intriguing addition to Apple’s arsenal.
 
-                                    @Override
-                                    public void afterTextChanged(Editable editable) {
-                                    }
-                                });
-                            }
-}"
-}
+For anyone with smaller hands or skinnier jeans, the iPhone 12 mini is the only compact flagship worth considering. With its 5.4-inch screen size, top tier power and class-leading camera for such a compact contender, despite costing a fair whack, it’s worth every penny.
+
+While the more expensive Pro models have swankier cameras, they’re noticeably pricier, making the 12 and 12 mini the best bang for buck option in the latest iPhone range lineup if you don’t need an optical zoom. Be prepared for no included charger to avoid a shock when unboxing, and you’ll have years of happy use ahead of you."
+},
+{
+"title":"Samsung Galaxy Note 20 Ultra",
+"message":"The Note 20 Ultra is one of the best smartphones money can buy for creative people looking to scribble, draw, make notes and be productive on the move. Aside from its great camera setup and gorgeous large AMOLED display, its party trick – the removable S Pen stylus – offers tons of flexibility.
+
+From handwriting notes (which can be straightened and converted to text) to creating fancy drawings with improved pressure sensitivity, Samsung’s stylus takes an already great phone and makes it truly amazing. 
+
+With a stunning build, super-powerful specs, and a versatile camera setup capable of shooting 8K video, it’s one of the best phones money can buy, particularly if you make use of its swanky stylus."
+},
+{
+"title":"Google Pixel 5",
+"message":"TRENDING
+
+Graphic Design
+
+Illustration
+
+Web Design
+
+Adobe deals
+
+All tags
+
+Jobs
+
+Creative Bloq is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission. Learn more
+
+The best smartphones in 2021
+
+By Adam Marshall, Basil Kronfli February 01, 2021
+
+Take on the go creativity to the next level with 2021's best smartphones.
+
+ 
+
+ 
+
+ 
+
+ 
+
+BEST SMARTPHONES: TOP 5
+
+Jump straight to each device:
+01. Samsung Galaxy S21 Ultra
+02. iPhone 12 Pro Max
+03. iPhone 12 & iPhone 12 Mini
+04. Samsung Galaxy Note 20 Ultra
+05. Google Pixel 5
+
+With so many mobiles to choose from, finding the best smartphones in 2021 can be a daunting undertaking. You could go with the safe bet at a high price – Apple’s iPhone 12 Pro Max, or one of its siblings, the iPhone 12 or 12 mini. Or you could even splash out on Samsung’s Z Fold2, a flexible, folding Android phone that’s sure to set you apart from the crowd.
+
+There's so much to choose from – so we've done the research and tested hundreds of Android and iOS devices to bring you our best smartphones list.
+
+The first thing you need to ask yourself is – what’s your priority? If you’re after a champion camera phone, then you’ll want to check out our round up of the best camera phones. For a creative powerhouse, maybe you’d be more interested in Samsung’s latest Galaxy S21 Ultra with its amazing screen, super versatile cameras and S Pen support. Alternatively, there are other lower-cost options from the likes of OnePlus if all you want is premium hardware without the pen input.
+
+Before picking up any phone, remember to check that the best iPhone apps and Android apps for creatives are available. If you’re jumping from an iPhone to and Android, for example, the stellar Good Notes won’t be an option on Google’s mobile OS. 
+
+Once you’ve cross-checked your must-have apps and know which OS you need, our list of top-ten creative phones should help you figure out which is the right device for your personal life, productivity, work and everything in between.
+
+Advertisement
+
+The best smartphones available now
+
+￼
+
+(Image credit: Basil Kronfli )
+
+01. Samsung Galaxy S21 Ultra
+
+The best do-it-all smartphone
+
+Release date: January 2021 | Weight: 227 g (Sub6), 229 g (mmWave) | Dimensions: 165.1 x 75.6 x 8.9 mm | OS: Android 11 | Screen size: 6.8-inch | Resolution: 1440x3200 | CPU: Exynos 2100 (5 nm) - International Snapdragon 888 (5 nm) - USA/China | RAM: 12GB/16GB | Storage: 128GB/256GB/512GB | Battery: 5,000Ah | Rear camera: 108MP + 10MP + 10MP + 12MP | Front camera: 40MP
+
+￼
+
+$999.99
+
+VIEW AT AMAZON
+
+￼
+
+$999.99
+
+View at Amazon
+
+￼
+
+$999.99
+
+View at Amazon
+
+See all prices (4 found)
+
+Wacom pen tech
+
+Excellent camera zoom
+
+Big and bulky
+
+Expensive
+
+The Samsung Galaxy S21 Ultra does everything you need it to do. Its big, bright, bold, beautiful benchmark of a screen will dazzle you while watching your favourite content. And with S Pen support (S Pen sold separately), not to mention the most versatile camera system available, it’s also a creative suite unto itself, allowing you to shoot 8K video and snap pics with its 108MP stills camera and 10x zoom.
+
+It’s difficult to find fault with the Galaxy S21 Ultra if you can get past its high price and hefty frame. With fewer shortcomings than possibly any flagship phone on the market, Samsung is once again back on top. 
+
+Want to know more? Read our in-depth Samsung Galaxy S21 Ultra review. 
+
+￼
+
+(Image credit: Apple)
+
+02. iPhone 12 Pro Max
+
+The best iPhone ever
+
+Weight: 228g | Dimensions: 160.8mm x 78.1mm x 7.4mm | OS: iOS 14 | Screen size: 6.7-inch | Resolution: 1284 x 2778 | CPU: A14 Bionic | RAM: 6GB | Storage: 128GB/256GB/512GB | Battery: 3,687mAh | Rear camera: 12MP + 12MP + 12MP | Front camera: 12MP
+
+￼
+
+$1,099
+
+VIEW AT AMAZON
+
+￼
+
+$1,099
+
+View at Amazon
+
+￼
+
+$1,099
+
+View at Amazon
+
+See all prices (12 found)
+
+Superb camera
+
+Great battery life
+
+Very expensive
+
+Bulky
+
+It’s eye-wateringly expensive, but there’s no denying that the iPhone 12 Pro Max is the best, most feature-packed iPhone Apple has ever made. 
+
+If you can handle the size of its 6.7in screen, you’ll be treated to an incredibly powerful A14 Bionic processor, 6GB RAM, one of the best smartphone cameras in the world, and all with incredible battery life to boot.
+
+All of this is wrapped up in Apple’s tried and tested minimal design, powered by the smooth and slick iOS 14. If you can handle its larger size (and larger price tag) then you’ll be more than content with Apple’s latest and greatest handset.
+
+￼
+
+(Image credit: Apple)
+
+03. iPhone 12 and 12 Mini
+
+The best bang for buck iPhone
+
+Release date: October 2020 | Weight: 164 g | Dimensions: 146.7 x 71.5 x 7.4 mm | OS: iOS 14 | Screen size: 6.1-inch | Resolution: 1170 x 2532 | CPU: A14 Bionic | RAM: 4GB | Storage: 64GB/128GB/256GB | Battery: 2,815mAh | Rear camera: 12MP+12MP | Front camera: 12MP
+
+￼
+
+$829
+
+VIEW AT AMAZON
+
+￼
+
+$829
+
+View at Amazon
+
+￼
+
+$829
+
+View at Amazon
+
+See all prices (5 found)
+
+Beautiful display
+
+Solid camera
+
+Battery life could be better
+
+Base storage low
+
+The iPhone 12 has a 6.1in display and has the same 5G support as Apple’s other new iPhones, along with very good (but not the absolute best) camera performance. The OLED screen is a joy to behold, and the new MagSafe feature is an intriguing addition to Apple’s arsenal.
+
+For anyone with smaller hands or skinnier jeans, the iPhone 12 mini is the only compact flagship worth considering. With its 5.4-inch screen size, top tier power and class-leading camera for such a compact contender, despite costing a fair whack, it’s worth every penny.
+
+While the more expensive Pro models have swankier cameras, they’re noticeably pricier, making the 12 and 12 mini the best bang for buck option in the latest iPhone range lineup if you don’t need an optical zoom. Be prepared for no included charger to avoid a shock when unboxing, and you’ll have years of happy use ahead of you.
+
+Today's best iPhone 12 and iPhone 12 mini deals
+
+Apple iPhone 12
+
+￼
+
+￼
+
+$829
+
+VIEW
+
+See all prices
+
+Apple iPhone 12 Mini
+
+￼
+
+￼
+
+$729
+
+VIEW
+
+See all prices
+
+We check over 130 million products every day for the best prices
+
+￼
+
+(Image credit: Samsung)
+
+04. Samsung Galaxy Note 20 Ultra
+
+The best smartphone for creative superstars
+
+Weight: 208g | Dimensions: 164.8mm x 77.2mm x 8.1mm | OS: Android 10 | Screen size: 6.9-inch | Resolution: 1440 x 3088 | CPU: Snapdragon 865+ | RAM: 12GB | Storage: 128GB/256GB/512GB | Battery: 4,500mAh | Rear camera: 108MP + 12MP + 12MP | Front camera: 10MP
+
+￼
+
+$1,099.92
+
+VIEW AT AMAZON
+
+￼
+
+$1,099.99
+
+View at Amazon
+
+Superb camera
+
+Incredible screen
+
+Expensive
+
+Slower charging
+
+The Note 20 Ultra is one of the best smartphones money can buy for creative people looking to scribble, draw, make notes and be productive on the move. Aside from its great camera setup and gorgeous large AMOLED display, its party trick – the removable S Pen stylus – offers tons of flexibility.
+
+From handwriting notes (which can be straightened and converted to text) to creating fancy drawings with improved pressure sensitivity, Samsung’s stylus takes an already great phone and makes it truly amazing. 
+
+With a stunning build, super-powerful specs, and a versatile camera setup capable of shooting 8K video, it’s one of the best phones money can buy, particularly if you make use of its swanky stylus.
+
+￼
+
+(Image credit: Google)
+
+05. Google Pixel 5
+
+Solid camera with great software and editing smarts
+
+Release date: October 2020 | Weight: 151g | Dimensions: 144.7mm x 70.4mm x 8mm | OS: Android 11 | Screen size: 6-inch | Resolution: 2340 x 1080 | CPU: Snapdragon 765G | RAM: 8GB | Storage: 128GB | Battery: 4000mAh | Rear camera: 16MP + 12MP | Front camera: 8MP
+
+￼
+
+$699
+
+VIEW AT AMAZON
+
+$799
+
+View at Amazon
+
+￼
+
+$819.99
+
+View at Amazon
+
+See all prices (7 found)
+
+Fantastic camera software
+
+Handsome, minimal design
+
+No telephoto camera
+
+Night shots could be better
+
+The Google Pixel 5 isn’t a phone that blows you away with fancy multiple lenses. It keeps things simple with a 12.2MP main camera and a 16MP  ultra-wide one, with no dedicated zoom lens. 
+
+Power-wise, things are middling too, with a Snapdragon 765G processor, and 8GB of RAM. On paper, then, the Pixel 5 isn’t up there with the most powerful, feature-packed phone in the word, but its price fairly reflects that. 
+
+What it does do, is offer a pure up to date Android experience in a smart minimal package, with solid well-lit camera performance and powerful image editing tools for tweaking on the move, with a battery that will  comfortably last you through the day.
+
+If you want to keep up with the latest Android features for the next few years and aren’t fussed about night or zoom photography, this could very well be the best handset for you."
+},
+{
+"title":"Oppo Find X2 Pro",
+"message":"Oppo has been relatively unknown until recently, but it landed with a bang. Last year, its branding was all over Wimbledon, and now it’s launched one of the best smartphones of the year so far, the Find X2 Pro.
+
+From a camera point of view, the X2 Pro wows, introducing Sony’s second-generation 48MP sensor to the world. Grabbing high-resolution photos with beautiful depth and plenty of detail, the great thing about photos shot on the Find X2 Pro is that they look natural and realistic, especially when set aside those captured on Samsung phones. Packing a 5x zoom telephoto camera, the Pro also gets you close to the action, and its ultra-wide camera is a pin-sharp 48MP, for GoPro-esque shots you can crop into."
+},
 ]
