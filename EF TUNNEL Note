@@ -1,5 +1,5 @@
     {
-      "enable": true,
+      "enable": false,
       "title": "⚠️  Attention",
       "message": "This application can no longer be used"
     }
